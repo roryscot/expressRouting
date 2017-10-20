@@ -11,6 +11,8 @@
   "author": "Rory Dahl",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "http": "0.0.0",
+    "http-server": "^0.10.0"
   }
 }
